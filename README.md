@@ -65,7 +65,7 @@ To improve upon the current results:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/YuanYuanBingZi/MindMeld-StressDetection
+   git clone https://github.com/YuanYuanBingZi/MindMeld-StressDetection.git
    ```
 
 2. **Install required libraries:**
